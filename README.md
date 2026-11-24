@@ -88,7 +88,7 @@ Content-Type: application/json
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/HristijanPetreskii/taskflow-api.git
 cd taskflow-api
 ```
 
